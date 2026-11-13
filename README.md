@@ -241,10 +241,7 @@ on another laptop has not been exercised here.
 
 ## Team, limitations and license
 
-Sidharth P Nair, RA2311026050087, B.Tech CSE (AI and ML), SRM Institute of Science
-and Technology, Tiruchirappalli. Assessment Task 2: RL Innovation Hackathon.
-Additional names, registration numbers and actual contributions can be edited on
-Project Information and saved to `team.json`. Contributions are initially blank.
+Sidharth P Nair
 
 This is an educational single-intersection simulator with no turning, pedestrians,
 spillback, road storage limits or real-world validation. Heavy demand is deliberately
